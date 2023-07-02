@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on DIGEVOL.AI<br>🤝 I’m looking for help with a project on blockchain<br>🌱 I’m currently learning blockchain<br>💬 Ask me about Mern Stack and React Native<br>⚡ Fun fact I love cricket and PUBG
+🔭 I’m currently working as React Developer<br>🤝 I’m looking for help with a project on blockchain<br>🌱 I’m currently learning blockchain<br>💬 Ask me about Mern Stack and React Native<br>⚡ Fun fact I love cricket and PUBG
 
 
 ## 🌐 Socials:
